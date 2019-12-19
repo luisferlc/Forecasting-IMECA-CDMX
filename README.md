@@ -1,6 +1,4 @@
-![ironhacklogo](https://github.com/luisferlc/IMECA-CDMX-Prediction/tree/master/images)
-
-<img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/tree/master/images">
+<img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/ironhack.png">
 
 # Predicción de IMECA para PM10 y PM2.5
 
