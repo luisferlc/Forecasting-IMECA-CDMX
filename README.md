@@ -37,10 +37,10 @@ El análisis se puede dividir en dos etapas:
 #### Datos para entrenar y testear la predicción:
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/train.test.PNG">
 
-- MAPE alrededor de 40%
-
 #### Predicción de partículas PM10:
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/enfoque%201.2.PNG">
+
+- MAPE alrededor de 40%
 
 #### Predicción de IMECA:
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/imeca%201.PNG">
@@ -52,11 +52,11 @@ El análisis se puede dividir en dos etapas:
 #### Datos para entrenar y testear la predicción:
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/train.test2.PNG">
 
-- MAPE alrededor de 26%-28%
-
 #### Predicción de partículas PM10 y PM2.5
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/enfoque%202%20pm10.png">
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/enfoque%202%20pm2.5.PNG">
+
+- MAPE alrededor de 26%-28%
 
 #### Predicción de IMECA:
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/imeca%202%20pm10.png">
