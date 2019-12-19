@@ -45,20 +45,22 @@ El análisis se puede dividir en dos etapas:
 #### Predicción de IMECA:
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/imeca%201.PNG">
 
-- 60-70% de similitud con IMECA real.
+- 50-70% de similitud con IMECA real.
 
-### Predicción de partículas para cada día
+### Predicción de partículas por día
 
 #### Datos para entrenar y testear la predicción:
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/train.test2.PNG">
 
 #### Predicción de partículas PM10 y PM2.5
+
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/enfoque%202%20pm10.png">
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/enfoque%202%20pm2.5.PNG">
 
 - MAPE alrededor de 26%-28%
 
 #### Predicción de IMECA:
+
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/imeca%202%20pm10.png">
 <img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/imeca%202%20pm2.5.PNG">
 
