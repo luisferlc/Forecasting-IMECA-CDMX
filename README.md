@@ -21,7 +21,6 @@ El análisis se puede dividir en dos etapas:
 #### 1.-Predicción de partículas por cada hora del día (análisis hecho solo para PM10):
 Dos tipos de limpieza:
 - Rellenando NaN's con el promedio de cada año y eliminando otros.
-- Dejando los NaN's.
 
 Estos dos enfoques daban practicamente los mismos resultados. Después pase a la segunda etapa, donde me di cuenta que tenía mejores resultados. Es aquí donde analize también a PM2.5
 
@@ -39,11 +38,10 @@ Estos dos enfoques daban practicamente los mismos resultados. Después pase a la
 1. Predicción de partículas por cada hora del día:
 
 Datos para entrenar y testear la predicción:
-<img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/train.test.png">
+<img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/train.test.PNG">
 
 Los dos tipos de limpieza de datos o enfoques tuvieron los mismos resultados:
 - MAPE alrededor de 40%
 - 60-80% de similitud con IMECA real.
-
-Rellenando NaN's:
+<img src="https://github.com/luisferlc/IMECA-CDMX-Prediction/blob/master/images/enfoque%201.2.PNG">
 
